@@ -1,4 +1,43 @@
-.container{ 
+.container{
+    padding-right: 100px;
+    padding-left: 100px;
+    padding-bottom: 25px;
     background-color: yellow;
-}
+  }
 
+  .header{ 
+      background-color: blue;
+      border: 2px black solid;
+      height: 200px;
+  }
+
+  .nav{ 
+      background-color: green; 
+      border: 2px black solid;
+      height: 70px;
+  }
+
+  .content{ 
+      background-color: red;
+      border: 2px black solid;
+      height: 300px;
+  }
+
+  .aside{ 
+      background-color: #00FFFF;
+      border: 2px black solid;
+      height: 300px;
+  }
+
+  .promo{ 
+      background-color: orange;
+      border: 2px black solid;
+      height: 200px;
+  }
+
+  .footer{ 
+      background-color: black;
+      border: 2px black solid;
+      color: white;
+      height: 70px;
+  }
